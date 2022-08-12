@@ -1,0 +1,54 @@
+body{
+    margin: 0 20%;
+    font-size: 200%;
+    font-family: sans-serif;
+    background-color: rgb(79, 78, 226);
+}
+
+main{
+    display: block;
+    padding: 10px;
+    background-color: white;
+}
+
+section{
+    margin: 10px 10px 20px;
+    overflow: auto;
+    border: rgb(153, 78, 226) 10px solid ;
+    border-top: none;
+    background-color: rgb(78, 151, 226);
+    
+}
+h2{
+    margin: 0;
+    background-color: rgb(153, 78, 226);
+    
+}
+h3{
+   background-color: rgb(226, 79, 78); 
+   margin: 0;
+   padding-left: 5px;
+   color: white;
+}
+article{
+    border-top: none;
+    border:rgb(226, 79, 78) 5px solid;
+    background-color: rgb(78, 151, 226);
+    float: left;
+    width: 40%;
+    margin: 10px 4%;
+}
+
+p{
+    margin: 5px;
+}
+
+footer{
+    margin: 10px 0;
+    font-size: 1rem;
+}
+p.Autor{
+    background-color: white;
+    font-size: 1.25rem;
+
+}
